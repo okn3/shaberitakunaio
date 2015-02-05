@@ -13,10 +13,10 @@ siriさんとおしゃべりするためのスクリプトです。
 
 ## 【操作方法】
 
-* python HeySiri.py
+`python HeySiri.py`
 
 or
 
-* python heiSiri.py つぶやく
+`python heiSiri.py つぶやく`
 
 コマンドライン引数を使うことも出来ます。
