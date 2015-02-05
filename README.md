@@ -15,8 +15,3 @@ siriさんとおしゃべりするためのスクリプトです。
 
 `python HeySiri.py`
 
-or
-
-`python heiSiri.py つぶやく`
-
-コマンドライン引数を使うことも出来ます。
